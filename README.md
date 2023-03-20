@@ -5,6 +5,6 @@ Flutter project with Push Notification
 ## Screenshot
 
 <p align="center">
-    <img src="https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png" height="200" />
-    <img src="https://dart.dev/assets/shared/dart-logo-for-shares.png" height="200" />
+    <img src="https://drive.google.com/file/d/1DTXJy_4XJT84Twa93-LxsRDtHkAKXQ_n/view?usp=sharing" height="200" />
+    <img src="https://drive.google.com/file/d/1uDwzhwWdwUlN1b7PmXVf1_Z7_loko1Jq/view?usp=share_link" height="200" />
 </p>
